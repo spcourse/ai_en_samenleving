@@ -1,0 +1,4 @@
+- Lees hoofdstuk 6 “ The Peek-a-Boo World” van Postman op canvas.
+- Beantwoord de volgende vragen:
+  - Welke technologische ontwikkelingen hebben geleid tot het “show business” tijdperk en hoe?
+  - Wat is het probleem met mythische technologie?

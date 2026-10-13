@@ -18,4 +18,4 @@ In de eerste werkgroep gaan we dieper in op de **Turingtest** en de door Ray Kur
 
 Welke positie vind jij het meest overtuigend, en waarom?
 
-Schrijf een korte tekst van maximaal **250 woorden** waarin je jouw keuze beargumenteert. Je kunt deze tekst hier inleveren.
+Schrijf een korte tekst van maximaal **250 woorden** waarin je jouw keuze verdedigd, lever dat vervolgens in.
