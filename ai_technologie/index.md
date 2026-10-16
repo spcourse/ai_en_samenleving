@@ -31,7 +31,7 @@ Aan het einde van week 1 kun je:
 
 ## Extra materiaal
 
-- [*How Technology Changes Us | Lecture with Don Ihde and Peter-Paul Verbeek*](https://www.youtube.com/watch?v=hmBgJjfjG7Q) — een lezing die een goede samenvatting geeft van de theorie van Ihde. Een goede samenvatting van deze theorie staat ook hier: [*What Can We Learn from Don Ihde?*](https://www.futurelearn.com/info/courses/philosophy-of-technology/0/steps/26324)
+- [*How Technology Changes Us - Lecture with Don Ihde and Peter-Paul Verbeek*](https://www.youtube.com/watch?v=hmBgJjfjG7Q) — een lezing die een goede samenvatting geeft van de theorie van Ihde. Een goede samenvatting van deze theorie staat ook hier: [*What Can We Learn from Don Ihde?*](https://www.futurelearn.com/info/courses/philosophy-of-technology/0/steps/26324)
 - Google-paper.
 
 <!-- Voeg de links naar het studiemateriaal en extra materiaal toe zodra deze beschikbaar zijn. -->
