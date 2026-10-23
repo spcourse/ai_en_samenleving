@@ -28,6 +28,7 @@ Aan het einde van week 1 kun je:
 - Slides van het hoorcollege.
 - Slides van de werkgroep.
 - [Neil Postman, *Five Things We Need to Know About Technological Change*](Neil%20Postman%20-%20Five%20Things%20We%20Need%20to%20Know%20About%20Technological%20Change.pdf) — de tekst waarnaar we in het hoorcollege verwijzen.
+
 ## Extra materiaal
 
 - [*How Technology Changes Us - Lecture with Don Ihde and Peter-Paul Verbeek*](https://www.youtube.com/watch?v=hmBgJjfjG7Q) — een lezing die een goede samenvatting geeft van de theorie van Ihde. Een goede samenvatting van deze theorie staat ook hier: [*What Can We Learn from Don Ihde?*](https://www.futurelearn.com/info/courses/philosophy-of-technology/0/steps/26324)
