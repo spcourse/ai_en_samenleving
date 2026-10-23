@@ -27,6 +27,7 @@ Aan het einde van week 1 kun je:
 
 - Slides van het hoorcollege.
 - Slides van de werkgroep.
+- [Neil Postman, Hoofdstuk 5: *The Peek-a-Boo World*](Neil%20Postman%20-%20The%20Peek-a-Boo%20World.pdf) - voor de voorbereidende opdracht.
 - [Neil Postman, *Five Things We Need to Know About Technological Change*](Neil%20Postman%20-%20Five%20Things%20We%20Need%20to%20Know%20About%20Technological%20Change.pdf) — de tekst waarnaar we in het hoorcollege verwijzen.
 
 ## Extra materiaal
