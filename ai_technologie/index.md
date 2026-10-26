@@ -22,6 +22,7 @@ Aan het einde van week 1 kun je:
 - **Structurele verandering**
 - **Technologie**
 - **Artefact**
+- **Instrumentalisme, Determinisme & Mediation Theory**
 
 ## Studiemateriaal
 

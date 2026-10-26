@@ -2,6 +2,10 @@
 
 - Lees hoofdstuk 12 tot “Kwaliteit van argumentatie beoordelen”. Je leert hier hoe je een argumentatiestructuur weergeeft.
 - Pas deze kennis dan op onderstaande tekst toe en geef de argumentatiestructuur weer.
+  - Vind de hoofdstelling.
+  - Vind de ondersteunende argumenten en onderscheid ook nevengeschikte en ondergeschikte argumentatie.
+  - Markeer ook tegenwerpingen en de bijbehorende argumentatiestructuur.
+  - Markeer zwaktes in de argumentatie.
 - De argumentatiestructuur lever je als pdf-bedstand in op de website bij de submitpagina.
 
 ## "Who Is Responsible When an Algorithm Discriminates?"
