@@ -1,8 +1,8 @@
-## Argumenteren (~1h)
+## Argumenteren week 1 (~1h)
 
 - Lees hoofdstuk 12 tot “Kwaliteit van argumentatie beoordelen”. Je leert hier hoe je een argumentatiestructuur weergeeft.
-- Pass deze kennis dan op onderstaande tekst toe en geef de argumentatiestructuur weer.
-- De argumentatiestructuur lever je in op de website tot 4 November, 21 uur.
+- Pas deze kennis dan op onderstaande tekst toe en geef de argumentatiestructuur weer.
+- De argumentatiestructuur lever je als pdf-bedstand in op de website bij de submitpagina.
 
 ## "Who Is Responsible When an Algorithm Discriminates?"
 
