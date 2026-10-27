@@ -1,4 +1,4 @@
-## Argumenteren week 1 (~1h)
+# Argumenteren week 1 (~1h)
 
 - Lees hoofdstuk 12 tot “Kwaliteit van argumentatie beoordelen”. Je leert hier hoe je een argumentatiestructuur weergeeft.
 - Pas deze kennis dan op onderstaande tekst toe en geef de argumentatiestructuur weer.

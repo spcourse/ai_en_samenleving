@@ -1,4 +1,4 @@
-# Partiële afgeleide
+# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~ tijd)
 
 
 ## A. Oplossingen

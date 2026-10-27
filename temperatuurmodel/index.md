@@ -1,4 +1,4 @@
-# Voorbereidende opdracht werkcollege 2 (~ *tijd*)
+# Voorbereidende opdracht werkcollege 2 deel I: Lineaire Regressie (~ *tijd*)
 
 ## Modelleren van temperatuur
 
