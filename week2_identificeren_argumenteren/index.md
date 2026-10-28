@@ -2,8 +2,6 @@
 
 Lees de rest van hoofdstuk 12. Je leert hier een strategie voor hoe je impliciete aannames kunt herkennen en hoe je argumentatiestructuur in wetenschappelijke teksten kunt toepassen.
 
-_Gemaakt met hulp van gpt 5.1_
-
 ## Voorbereiding
 
 Lees van hoofdstuk 12 het stuk “Kwaliteit van argumentatie beoordelen” tot “kwaliteit van bronnen”, maar het stuk over impliciete aannames kun je nog overslaan. Je leert hier (i) goede argumentatie herkennen, (ii) een aantal belangrijke drogredenen.
@@ -32,3 +30,5 @@ Some policymakers claim that technological measures make worries about freedom o
 Public attitudes to privacy are also often misrepresented. A minister once remarked that “people who care about privacy usually have something to hide,” and cited a handful of high profile cases in which criminals used encryption to conceal wrongdoing. From these examples, she inferred that, in general, anyone insisting on strong privacy protections is probably hiding something suspicious. But ... .
 
 We do face genuine security threats, and governments must respond to them. But treating privacy as expendable is a dangerous strategy. Either we place meaningful limits on data collection, or we accept a continuing erosion of privacy. We cannot reasonably accept a continuing erosion of privacy, because it gradually silences dissent and chills experimentation—the very practices that sustain a free society. Therefore, we must place meaningful limits on data collection. A democratic community that understands this will defend privacy not as a niche concern, but as the everyday architecture of its freedom.
+
+_Deze tekst is gemaakt met hulp van gpt 5.1_

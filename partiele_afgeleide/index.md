@@ -1,4 +1,4 @@
-# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~1/1.5h)
+# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~1h)
 
 ## Ter herinnering
 
