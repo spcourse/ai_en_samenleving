@@ -1,98 +1,113 @@
-# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~ tijd)
+# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~1/1.5h)
 
+## Ter herinnering
 
-## A. Oplossingen
+Voor een functie van twee variabelen is de **gradiënt** als volgt gedefinieerd:
+
+$$
+\nabla f(x,y)=
+\begin{pmatrix}
+\dfrac{\partial f}{\partial x} \\
+\dfrac{\partial f}{\partial y}
+\end{pmatrix}.
+$$
+
+Bij het berekenen van een partiële afgeleide naar één variabele houd je de andere onafhankelijke variabelen constant.
+
+Je kunt de volgende afgeleiden gebruiken, samen met de productregel en de kettingregel:
+
+$$
+\begin{aligned}
+\frac{d}{ds}s^n &= ns^{n-1}, \\
+\frac{d}{ds}e^s &= e^s, \\
+\frac{d}{ds}\log s &= \frac{1}{s}, \qquad s>0.
+\end{aligned}
+$$
+
+Hier staat $$\log$$ voor de natuurlijke logaritme.
+
+## A. Opgaven
 
 ### Opgave 1
 
+Bepaal de partiële afgeleiden $$\frac{\partial f}{\partial x}$$ en $$\frac{\partial f}{\partial y}$$ van de volgende functie:
+
 $$
-\frac{\partial f}{\partial x}=2x-4,
-\qquad
-\frac{\partial f}{\partial y}=6y.
+f(x,y)=x^2+3y^2-4x+5.
 $$
 
 ### Opgave 2
 
+Bepaal de partiële afgeleiden $$\frac{\partial f}{\partial x}$$ en $$\frac{\partial f}{\partial y}$$ van de volgende functie:
+
 $$
-\frac{\partial f}{\partial x}=3x^2y+2y^2,
-\qquad
-\frac{\partial f}{\partial y}=x^3+4xy-4.
+f(x,y)=x^3y+2xy^2-4y.
 $$
 
 ### Opgave 3
 
+Bepaal de partiële afgeleiden $$\frac{\partial f}{\partial x}$$, $$\frac{\partial f}{\partial y}$$ en $$\frac{\partial f}{\partial z}$$ van de volgende functie:
+
 $$
-\begin{aligned}
-\frac{\partial f}{\partial x}&=4xy, \\
-\frac{\partial f}{\partial y}&=2x^2+6yz, \\
-\frac{\partial f}{\partial z}&=3y^2-3z^2.
-\end{aligned}
+f(x,y,z)=2x^2y+3y^2z-z^3.
 $$
 
 ### Opgave 4
 
-**a.** De gradiënt is:
+Beantwoord de onderstaande vragen voor de functie:
 
 $$
-\nabla f(x,y)=\bigl(2(x-y)+2x,\,-2(x-y)\bigr).
+f(x,y)=(x-y)^2+x^2.
 $$
 
-**b.** In het punt $$(1,2)$$ is de gradiënt:
+**a.** Bepaal de gradiënt $$\nabla f(x,y)$$.
 
-$$
-\nabla f(1,2)=(0,2).
-$$
+**b.** Bereken de gradiënt $$\nabla f(1,2)$$.
 
-**c.** De functie groeit.
+**c.** Stel dat we vanuit het punt $$(1,2)$$ de waarde van $$y$$ een klein beetje verhogen, terwijl we $$x$$ constant houden. Neemt de functiewaarde $$f$$ dan toe of af?
 
 ## B. Eenvoudige functies voor machine learning
 
-In opgaven 6–8 is $$u$$ een vaste inputwaarde en is $$t$$, waar aanwezig, een vaste doelwaarde. De variabelen waarnaar we differentiëren zijn de parameters $$w$$ en $$b$$.
+In opgaven 6–8 is $$u$$ een vaste invoerwaarde. Waar $$t$$ voorkomt, is dit een vaste doelwaarde. We differentiëren naar de parameters $$w$$ en $$b$$ en houden de invoer- en doelwaarden daarbij constant.
 
 ### Opgave 6: lineaire voorspelling
 
-Bepaal de partiële afgeleiden $$\frac{\partial\widehat{f}}{\partial w}$$ en $$\frac{\partial\widehat{f}}{\partial b}$$ voor de volgende functie:
+Bepaal de partiële afgeleiden $$\frac{\partial\widehat{f}}{\partial w}$$ en $$\frac{\partial\widehat{f}}{\partial b}$$ van de volgende functie:
 
 $$
-\widehat{f}(w,b)=wu+b.
+\widehat{f}(w,b)=wx+b.
 $$
 
-### Opgave 7: kwadratische verliesfunctie
+### Opgave 7: kwadratische lossfunctie
 
-Voor één datapunt definiëren we:
+Voor één datapunt definiëren we de volgende lossfunctie:
 
 $$
 L(w,b)=\frac{1}{2}(wu+b-t)^2.
 $$
 
-**a.** Bepaal de volgende partiële afgeleiden met behulp van de kettingregel:
+**a.** Gebruik de kettingregel om de partiële afgeleiden $$\frac{\partial L}{\partial w}$$ en $$\frac{\partial L}{\partial b}$$ te bepalen.
 
-$$
-\frac{\partial L}{\partial w}
-\qquad\text{en}\qquad
-\frac{\partial L}{\partial b}.
-$$
-
-**b.** Bereken beide afgeleiden voor de volgende waarden:
+**b.** Bereken de waarden van beide afgeleiden voor:
 
 $$
 u=2,\qquad t=3,\qquad w=1,\qquad b=0.
 $$
 
-**c.** Voer vanuit deze parameterwaarden één gelijktijdige *gradient-descent*-stap uit met leerstapgrootte $$\eta=0{,}1$$:
+**c.** Voer vanuit deze parameterwaarden één stap van *gradient descent* uit, waarbij je beide parameters gelijktijdig bijwerkt. Gebruik een leersnelheid (*learning rate*) van $$\eta=0{,}1$$:
 
 $$
 \begin{aligned}
-w_{\mathrm{nieuw}}&=w-\eta\frac{\partial L}{\partial w}, \\
-b_{\mathrm{nieuw}}&=b-\eta\frac{\partial L}{\partial b}.
+w_{\mathrm{nieuw}} &= w-\eta\frac{\partial L}{\partial w}, \\
+b_{\mathrm{nieuw}} &= b-\eta\frac{\partial L}{\partial b}.
 \end{aligned}
 $$
 
-Gebruik voor beide updates de afgeleiden die zijn berekend bij de oorspronkelijke parameterwaarden.
+Gebruik voor beide updates de afgeleiden die je bij de oorspronkelijke parameterwaarden hebt berekend.
 
 ### Opgave 8: voorspelling met de sigmoidfunctie
 
-We definiëren:
+We definiëren de sigmoidfunctie en de voorspelfunctie als volgt:
 
 $$
 \sigma(s)=\frac{1}{1+e^{-s}},
@@ -106,34 +121,25 @@ $$
 \sigma'(s)=\sigma(s)\bigl(1-\sigma(s)\bigr).
 $$
 
-**b.** Bepaal de volgende partiële afgeleiden. Je mag je antwoorden uitdrukken in termen van $$p$$:
+**b.** Bepaal de partiële afgeleiden $$\frac{\partial p}{\partial w}$$ en $$\frac{\partial p}{\partial b}$$. Je mag je antwoorden uitdrukken in termen van $$p$$.
 
-$$
-\frac{\partial p}{\partial w}
-\qquad\text{en}\qquad
-\frac{\partial p}{\partial b}.
-$$
-
-**c.** Bereken beide afgeleiden voor:
+**c.** Bereken de waarden van beide afgeleiden voor:
 
 $$
 u=2,\qquad w=0,\qquad b=0.
 $$
 
-### Opgave 9: softplus
+### Opgave 9: voorspelling met de softplus-functie
 
-Een gladde activatiefunctie geeft de volgende functie van twee variabelen:
+De glooiende activatiefunctie *softplus* levert de volgende functie van twee variabelen op:
 
 $$
 f(x,y)=\log\bigl(1+e^{x+y}\bigr).
 $$
 
-Bepaal de partiële afgeleiden:
+Bepaal de partiële afgeleiden $$\frac{\partial f}{\partial x}$$ en $$\frac{\partial f}{\partial y}$$. Schrijf elk antwoord op twee manieren: als een breuk en met behulp van de sigmoidfunctie uit opgave 8.
 
-$$
-\frac{\partial f}{\partial x}
-\qquad\text{en}\qquad
-\frac{\partial f}{\partial y}.
-$$
+### Einde
 
-Druk elk antwoord zowel uit als een breuk als met behulp van de sigmoidfunctie uit opgave 8.
+Heb je alle opdrachten af? Goed gedaan!
+Lever deze vervolgens, genummerd per opgave, in als één pdf-bestand waar ook je lineaire regressieopdrachten in hebt staan bij de submit-pagina .

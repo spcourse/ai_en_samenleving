@@ -1,4 +1,4 @@
-# Voorbereidende opdracht week 2 deel I: Lineaire Regressie (~ *tijd*)
+# Voorbereidende opdracht week 2 deel I: Lineaire Regressie (~1h)
 
 ## Modelleren van temperatuur
 
@@ -44,3 +44,9 @@ Dit komt erop neer dat we een lineaire functie bepalen die door de oorsprong van
 ### Opgave 3
 
 Stel dat we ook een voorspelling willen maken voor een tijdstip later op de dag, bijvoorbeeld 20 uur. Is het gebruikte model dan nog steeds geschikt? Waarom wel of niet? Wat voor model zouden we dan beter kunnen gebruiken?
+
+
+### Einde
+
+Heb je de lineaire regressieopgaven gemaakt? Ga dan door met de opgaven van partiële afgeleide.
+Lever deze daarna gezamenlijk in bij de submit-pagina.
