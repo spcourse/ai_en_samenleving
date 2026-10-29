@@ -1,4 +1,4 @@
-# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~1h)
+# Voorbereidende opdracht week 2 deel II: Partiële Afgeleide (~30min)
 
 ## Ter herinnering
 
@@ -66,6 +66,7 @@ $$
 
 **c.** Stel dat we vanuit het punt $$(1,2)$$ de waarde van $$y$$ een klein beetje verhogen, terwijl we $$x$$ constant houden. Neemt de functiewaarde $$f$$ dan toe of af?
 
+<!--
 ## B. Eenvoudige functies voor machine learning
 
 In opgaven 6–8 is $$u$$ een vaste invoerwaarde. Waar $$t$$ voorkomt, is dit een vaste doelwaarde. We differentiëren naar de parameters $$w$$ en $$b$$ en houden de invoer- en doelwaarden daarbij constant.
@@ -139,7 +140,9 @@ $$
 
 Bepaal de partiële afgeleiden $$\frac{\partial f}{\partial x}$$ en $$\frac{\partial f}{\partial y}$$. Schrijf elk antwoord op twee manieren: als een breuk en met behulp van de sigmoidfunctie uit opgave 8.
 
+-->
+
 ### Einde
 
-Heb je alle opdrachten af? Goed gedaan!
-Lever deze vervolgens, genummerd per opgave, in als één pdf-bestand waar ook je lineaire regressieopdrachten in hebt staan bij de submit-pagina .
+Heb je de partiële afgeleide opdrachten gemaakt? Ga dan door met de opgaven van lineaire regressie.
+Lever deze daarna gezamenlijk in bij de submit-pagina.

@@ -48,5 +48,5 @@ Stel dat we ook een voorspelling willen maken voor een tijdstip later op de dag,
 
 ### Einde
 
-Heb je de lineaire regressieopgaven gemaakt? Ga dan door met de opgaven van partiële afgeleide.
-Lever deze daarna gezamenlijk in bij de submit-pagina.
+Heb je alle opdrachten af? Goed gedaan!
+Lever deze vervolgens, genummerd per opgave, bij de submit-pagina in als één pdf-bestand waar ook je de opdrachten over partiële afgeleiden in hebt staan.
