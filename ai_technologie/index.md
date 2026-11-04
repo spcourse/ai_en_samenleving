@@ -30,6 +30,7 @@ Aan het einde van week 1 kun je:
 - [Werkcollege 1: AI & Technologie](PAIS_WC1_AI&technologie.pdf)
 - [Neil Postman, Hoofdstuk 5: *The Peek-a-Boo World*](Neil%20Postman%20-%20The%20Peek-a-Boo%20World.pdf) - voor de voorbereidende opdracht.
 - [Neil Postman, *Five Things We Need to Know About Technological Change*](Neil%20Postman%20-%20Five%20Things%20We%20Need%20to%20Know%20About%20Technological%20Change.pdf) — de tekst waarnaar we in het hoorcollege verwijzen.
+- [Modeluitwerking Argumenteren Week 1](Modeluitwerking%20Argumenteren%20Week%201.pdf)
 
 ## Extra materiaal
 
