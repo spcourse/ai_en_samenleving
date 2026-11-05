@@ -30,6 +30,6 @@ Aan het einde van week 2 kun je:
 - Hier zijn de slides van het hoorcollege.
 - Hier zijn de slides van de werkgroep
 - [Marijn Sax, *Privacy from an Ethical Perspective*](Marijn%20Sax%20-%20Privacy%20from%20an%20Ethical%20Perspective.pdf) — de tekst waarnaar we in het hoorcollege verwijzen.
-- Afbeeldingen op A4
+- [Modeluitwerking Partiele afgeleide & Lineaire Regressie](Modeluitwerking%20Partiele%20Afgeleide%20&%20Lineaire%20Regressie.pdf)
 
 ## Extra materiaal
