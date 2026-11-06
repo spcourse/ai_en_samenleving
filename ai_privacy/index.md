@@ -27,8 +27,9 @@ Aan het einde van week 2 kun je:
 
 ## Studiemateriaal
 
-- Hier zijn de slides van het hoorcollege.
-- Hier zijn de slides van de werkgroep
+- [Hoorcollege 2: AI & Privacy deel I](PAIS_HC2_privacy1.pdf)
+- [Hoorcollege 2: AI & Privacy deel II](PAIS_HC2_privacy2.pdf)
+- [Werkcollege 2: AI & Privacy](PAIS_WC2_AI&privacy.pdf)
 - [Marijn Sax, *Privacy from an Ethical Perspective*](Marijn%20Sax%20-%20Privacy%20from%20an%20Ethical%20Perspective.pdf) — de tekst waarnaar we in het hoorcollege verwijzen.
 - [Modeluitwerking Partiele afgeleide & Lineaire Regressie](Modeluitwerking%20Partiele%20Afgeleide%20&%20Lineaire%20Regressie.pdf)
 
