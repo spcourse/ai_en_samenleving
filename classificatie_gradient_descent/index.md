@@ -10,7 +10,7 @@ $$
 \sigma(z)=\frac{1}{1+e^{-z}}.
 $$
 
-In afbeelding 1 zie je de grafiek van deze functie. De rode stippellijn geeft de sigmoïdewaarde aan die als omslagpunt voor de classificatie wordt gebruikt.
+In afbeelding 1 zie je de grafiek van deze functie.
 
 ![Grafiek van de sigmoïdefunctie. De rode stippellijn markeert het omslagpunt voor de classificatie.](standard_sigmoid.png)
 
@@ -24,14 +24,14 @@ We kunnen de sigmoïdewaarde omzetten in een classificatie door de volgende besl
 
 $$
 \begin{cases}
-1 & \text{als } \sigma(z)\geq 0{,}5,\\
-0 & \text{als } \sigma(z)<0{,}5.
+1 & \text{als } \sigma(z)\geq 0.5,\\
+0 & \text{als } \sigma(z)<0.5.
 \end{cases}
 $$
 
-Bij $$z=0$$ geldt $$\sigma(z)=0{,}5$$. Daarom is $$z=0$$ het omslagpunt waarop de voorspelde klasse verandert. Dit punt of deze grens heet de *decision boundary* (beslissingsgrens).
+Bij $$z=0$$ geldt $$\sigma(z)=0.5$$. Daarom is $$z=0$$ het omslagpunt waarop de voorspelde klasse verandert. Dit punt of deze grens heet de *decision boundary* (beslissingsgrens).
 
-Omdat de sigmoïdewaarden tussen 0 en 1 liggen, kunnen we ze interpreteren als modelmatige waarschijnlijkheden. Een kleine sigmoïdewaarde duidt op een kleine voorspelde kans om tot klasse 1 te behoren; een grote waarde duidt op een grote voorspelde kans. In de buurt van $$z=0$$ is de sigmoïdewaarde ongeveer 0,5, wat overeenkomt met onzekerheid over de klasse. Een stapfunctie kan die onzekerheid rond de beslissingsgrens niet weergeven.
+Omdat de sigmoïdewaarden tussen 0 en 1 liggen, kunnen we ze interpreteren als modelmatige waarschijnlijkheden. Een kleine sigmoïdewaarde duidt op een kleine voorspelde kans om tot klasse 1 te behoren; een grote waarde duidt op een grote voorspelde kans. In de buurt van $$z=0$$ is de sigmoïdewaarde ongeveer 0.5, wat overeenkomt met een waarschijnlijkheid van rond de 50% dat een z-waarde bij de ene of de andere klasse behoord. Met een trapfunctie kan je deze onzekerheid rondom het omslagpunt *decision boundary* niet weergeven.
 
 ### Classificeren met een sigmoïdefunctie
 
