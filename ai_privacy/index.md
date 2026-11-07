@@ -1,4 +1,4 @@
-# Week 2: Kunstmatige intelligentie en privacy
+# Week 2: Kunstmatige intelligentie & privacy
 
 Hoe weet een AI-systeem patronen te leren, bijvoorbeeld welke video je wilt zien of welk product je interessant vindt? En wat betekent het als zo’n systeem niet alleen je voorkeuren voorspelt, maar ook je keuzes beïnvloedt? Dat onderzoeken we in deze tweede week.
 

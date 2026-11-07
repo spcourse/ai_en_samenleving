@@ -1,0 +1,3 @@
+## Argumenteren (~1h)
+
+- Bereid je voor op de tussentijdse toets in werkgroep 4. Deze toets gaat over wat wij in de eerste vier weken over argumenten hebben besproken. Kijk hiervoor nog een keer naar het handboek academische vaardigheden, hfdst. 12, de huiswerkopdrachten en je aantekeningen van de colleges. Voor deze toets gebruiken we de eerste helft van het werkcollege (dus ~45 minuten) en telt voor 10% van je cijfer. 
