@@ -1,10 +1,6 @@
-# Oefening classificatie en gradient descent
-## Programmeren, AI en Samenleving
+# Voorbereidende opdracht week 3: Classificatie & Gradient Descent (~2h)
 
-**Het docententeam**  
-November 2026
-
-## 1. Classificeren met een sigmoidfunctie
+## 1. Classificeren met een sigmoïdefunctie
 
 ### De functie $$\sigma(z)$$
 
