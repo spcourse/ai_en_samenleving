@@ -8,25 +8,25 @@ Maar dit levert meteen ook vragen op over wat als een systeem fouten maakt over 
 
 Aan het einde van week 3 kun je:
 
-- Onderscheid kunnen maken tussen supervised, unsupervised en reinforcement learning.
 - Uitleggen wat classificatie is en beschrijven hoe het werkt.
-- Uitleggen hoe je een sigmoïdefunctie kunt gebruiken voor een classificatieprobleem.
 - Uitleggen hoe gradient descent een machine-learningmodel leert van trainingsdata.
-- Beoordelen van een AI-praktijk of -toepassing op mogelijke gevolgen voor rechtvaardigheid, daarbij relevante argumenten en betrokken groepen benoemen, 
-en een onderbouwd standpunt kunnen innemen over het gebruik ervan.
+- Gradient descent toepassen op een simpel optimalisatieprobleem.
+- Uitleggen wat discriminatie is, en beargumenteren wat de rol van discriminatie is in een samenleving en in hoeverre dit problematisch is.
+- Evalueren hoe bepaalde AI praktijken of applicaties discrimineren en een positie betrekken tot het gebruik van deze praktijken/applicaties.
 
 ## Sleutelbegrippen week 3
 
-- **Supervised, unsupervised & reinforcement learning**
 - **Classificatie**
 - **Gradient descent**
 - **Sigmoïdefunctie**
-- **Fairness**
-- **Privilege**
-- **Oppressie**
+- **Discriminatie & rechtvaardigheid**
+- **Oppressie, power, privilege & privilege hazard**
+- **Allocational & representational harm**
 
 ## Studiemateriaal
 - Hier zijn de slides van het hoorcollege.
 - Hier zijn de slides van de werkgroep
 
 ## Extra materiaal
+- [Paper over Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- [Oppression 101: An Overview](https://connect.springerpub.com/content/book/978-0-8261-7817-6/chapter/ch01)
