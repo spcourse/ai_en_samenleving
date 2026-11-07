@@ -22,7 +22,7 @@ en een onderbouwd standpunt kunnen innemen over het gebruik ervan.
 - **Gradient descent**
 - **Sigmoïdefunctie**
 - **Fairness**
-- **Privilege*
+- **Privilege**
 - **Oppressie**
 
 ## Studiemateriaal
