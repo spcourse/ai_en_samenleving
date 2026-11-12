@@ -159,7 +159,7 @@ parameterwaarden waarvoor de fout op de trainingsdata zo klein mogelijk is. Ofte
 de loss functie, in dit geval de squared error:
 
 $$
-\mathrm{Loss}(w,b)=\frac{1}{2}\sum_{j=1}^{4}(y_j-\hat{y}_j)^2.
+\mathrm{Loss}(w,b)=\frac{1}{2}\sum_{j=1}^{N}(y_j-\hat{y}_j)^2.
 $$
 
 Hierbij is $$j$$ de index van een datapunt, $$y_j$$ de werkelijke klasse en $$\hat{y}_j$$ de
@@ -186,12 +186,12 @@ Voor de gemiddelde gekwadrateerde fout hierboven zijn de partiële afgeleiden:
 
 $$
 \frac{\partial\mathrm{Loss}}{\partial w}
-=\frac{1}{4}\sum_{j=1}^{4}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j)x_j,
+=\frac{1}{N}\sum_{j=1}^{N}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j)x_j,
 $$
 
 $$
 \frac{\partial\mathrm{Loss}}{\partial b}
-=\frac{1}{4}\sum_{j=1}^{4}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j).
+=\frac{1}{N}\sum_{j=1}^{N}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j).
 $$
 
 Voor elk datapunt $$j$$ is $$y_j$$ de werkelijke klasse en is $$\hat{y}_j$$ de voorspelling
