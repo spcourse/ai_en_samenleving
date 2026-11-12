@@ -24,8 +24,10 @@ Aan het einde van week 3 kun je:
 - **Allocational & representational harm**
 
 ## Studiemateriaal
-- Hier zijn de slides van het hoorcollege.
-- Hier zijn de slides van de werkgroep
+- [Hoorcollege 3: AI & Rechtvaardigheid deel I](PAIS_HC3_rechtvaardigheid1.pdf)
+- [Hoorcollege 3: AI & Rechtvaardigheid deel II](PAIS_HC3_rechtvaardigheid2.pdf)
+- [Werkcollege 3: AI & Rechtvaardigheid](PAIS_WC3_AI&rechtvaardigheid.pdf)
+- [Modeluitwerking Classificatie & Gradient Descent](Modeluitwerking%20Classificatie%20&%20Gradient%20Descent.pdf)
 
 ## Extra materiaal
 - [Paper over Stochastic Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
