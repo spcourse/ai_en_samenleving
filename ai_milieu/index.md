@@ -8,15 +8,24 @@ Deze week volgen we deze materiële keten en kijken we naar de ongelijke verdeli
 
 Aan het einde van week 4 kun je:
 
--
+- Identificeren wat de belangrijkste milieukosten zijn van onze digitale infrastructuur.
+- Uitleggen hoe technologie en grondstofgebruik met elkaar samenhangen.
+- Evalueren wanneer er sprake is van regionale ongelijkheid bij technologische ontwikkelingen.
 
 ## Sleutelbegrippen week 4
 
--
+- **Blockchain**
+- **Scope 1, 2 & 3 emissies**
+- **Tragedy of the Commons**
+- **Regionale ongelijkheid**
+- **Jevon's Paradox**
 
 ## Studiemateriaal
 - [Hoorcollege 4: AI & Milieu](PAIS_HC4_milieu.pdf)
 - [Werkcollege 4: AI & Milieu](PAIS_WC4_AI&milieu.pdf)
+- [Andreas Roos - Earthing philosophy of technology](Andreas%20Roos%20-%20Earthing%20philosophy%20of%20technology.pdf)
 
 ## Extra materiaal
--
+- Lees [hier de originele publicatie](Garrett%20Hardin%20-%20Tragedy%20of%20the%20Commons.pdf) over de Tragedy of the Commons van Garrett Hardin uit 1968, ben je het eens met zijn stelling?
+- Aan het eind van het hoorcollege kijken we naar het toekomstperspectief. Hierbij laat ik een stukje van [deze video](https://www.youtube.com/watch?v=5eqRuVp65eY)
+zien, de rest van de video is ook zeer interessant, hoe veel beter kunnen we huidige AI-modellen nog maken en wat is daarvoor nodig?

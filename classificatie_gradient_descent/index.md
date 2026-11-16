@@ -229,6 +229,16 @@ Is het model voldoende getraind?
 | 4 | 0,997185 | -3,444857 | 0,029778 | ? | ? |
 | 5 | ? | ? | — | — | — |
 
+| Iteratie | $$w$$ | $$b$$ | Loss | $$\partial L/\partial w$$ | $$\partial L/\partial b$$ |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| 0 | 2 | -3 | 0.65512508 | 0.12966617 | 0.05905322 |
+| 1 | 1.87033383 | -3.05905322 | 0.56858433 | 0.1461427 | 0.06586419 |
+| 2 | 1.72419112 | -3.1249174 | 0.46163469 | 0.15647664 | 0.06965651 |
+| 3 | 1.56771449 | -3.19457392 | 0.3446183 | 0.1531552 | 0.0673234 |
+| 4 | 1.4145593 | -3.2618973 | 0.23884514 | ? | ? |
+| 5 | ? | ? | — | — | — |
+
+
 ![Ontwikkeling van de sigmoïdefunctie tijdens de iteraties.](evolution_sigmoid.png)
 
 *Afbeelding 5. Ontwikkeling van de sigmoïdefunctie tijdens de iteraties.*
