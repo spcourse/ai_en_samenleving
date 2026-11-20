@@ -17,7 +17,7 @@ Aan het einde van week 2 kun je:
 - Evalueren hoe bepaalde AI praktijken of applicaties privacy beperken en een positie betrekken tot het gebruik van deze praktijken/applicaties.
 - Positieve en negatieve vrijheid onderscheiden en herkennen wanneer deze begrippen van toepassing zijn
 
-## Sleutelbegrippen week 1
+## Sleutelbegrippen
 
 - **Lineaire regressie**
 - **Squared error loss function**

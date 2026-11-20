@@ -1,20 +1,29 @@
-Deze week gaan wij wat dieper in op hoe generative AI werkt. Met name willen wij proberen om een stuk beter te begrijpen hoe een transformer model werkt – de sleuteltechnologie achter taalmodellen zoals GPT en Claude.
+# Week 5: Kunstmatige intelligentie & vertrouwen
 
-Een groot risico van dit type modellen is dat het voor ons heel moeilijk wordt om nog realiteit van gegenereerde content te onderscheiden. Wij kunnen niet meer zeggen wat echt is. Hier gaan wij het in het tweede gedeelte van het hoorcollege over hebben.
+Deze week maken wij de stap naar neurale netwerken en Deep Learning.
+Wij gaan beginnen met het Perceptron: de oorsprong van Deep Learning. Vervolgens kijken wij hoe je
+vanuit dit principe complexere netwerken kunt bouwen
+Voordat wij dan volgende week gaan bestuderen hoe deze technologie kan worden gebruikt om taalmodellen
+te bouwen willen wij het vandaag al hebben over wat het gebruik van deze technologie met ons doet,
+met name met onze cognitie.
+Ten slotte gaan wij deze week aan de slag met het schrijven van een betoog. Nadat wij het in de werkgroep op donderdag gaan hebben over wat er komt kijken bij het schrijven van een betoog, gaan jullie dan op Vrijdag zelf aan de slag. Dan houden wij een schrijf-lab waar jullie zullen werken aan een betoog over een onderwerp van jullie keuze.
 
-In de werkgroep gaan wij deze week een korte toets afnemen over wat jullie geleerd hebben over argumentatie structuren.
 
-## Wat kun je aan het eind van week 1
 
-- Nog doen
+## Leerdoelen
 
-## SLEUTELBEGRIPPEN WEEK 1
+Aan het einde van week 5 kun je:
 
-- Nog doen
+-
 
-## STUDIEMATERIAAL
+## Sleutelbegrippen
 
-- Hier zijn de slides van het hoorcollege.
-- Hier zijn de slides van de werkgroep
+- ****
 
-## EXTRA's
+## Studiemateriaal
+
+- [Hoorcollege 5: AI & Privacy deel I](PAIS_HC5_.pdf)
+- [Werkcollege 5: AI & Privacy](PAIS_WC5_AI&vertrouwen.pdf)
+
+## Extra materiaal
+- Geen extra materiaal deze week
