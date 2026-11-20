@@ -1,4 +1,4 @@
-# Week 5: Kunstmatige intelligentie & vertrouwen
+# Week 5: Kunstmatige intelligentie & cognitie
 
 Deze week maken wij de stap naar neurale netwerken en Deep Learning.
 Wij gaan beginnen met het Perceptron: de oorsprong van Deep Learning. Vervolgens kijken wij hoe je
