@@ -174,24 +174,26 @@ aan in de richting waarin de loss afneemt. Het algoritme staat hieronder nog een
 
 ### Gradient-descentalgoritme
 
+<span style="color: #D32F2F;">**Let op voor studenten 2026: De onderstaande opgave is aangepast zodat de gradient descent mooi verloopt. We gebruiken nu een alpha van 0.25 en geen 1/N meer bij de afgeleide. De antwoorden die je gemaakt hebt als huiswerk zullen dus afwijken van de tabel hieronder**</span>
+
 - **Initialize** $$w$$ en $$b$$
 - **While** het minimum niet is bereikt:
   - $$w := w - \alpha \frac{\partial \mathrm{Loss}}{\partial w}$$
   - $$b := b - \alpha \frac{\partial \mathrm{Loss}}{\partial b}$$
 
 Hierbij is $$\alpha$$ de *learning rate* (leersnelheid). Deze bepaalt hoe groot de stappen zijn die
-we zetten. In dit voorbeeld gebruiken we $$\alpha=1$$, deze kunnen we dus nu negeren in het algoritme.
+we zetten. In dit voorbeeld gebruiken we $$\alpha=0.25$$, je ziet namelijk dat met een $$\alpha$$ van 1, het convergeren naar het minimum niet soepel verloopt (probeer maar eens).
 
 Voor de gemiddelde gekwadrateerde fout hierboven zijn de partiële afgeleiden:
 
 $$
 \frac{\partial\mathrm{Loss}}{\partial w}
-=\frac{1}{N}\sum_{j=1}^{N}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j)x_j,
+=\sum_{j=1}^{N}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j)x_j,
 $$
 
 $$
 \frac{\partial\mathrm{Loss}}{\partial b}
-=\frac{1}{N}\sum_{j=1}^{N}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j).
+=\sum_{j=1}^{N}(\hat{y}_j-y_j)\hat{y}_j(1-\hat{y}_j).
 $$
 
 Voor elk datapunt $$j$$ is $$y_j$$ de werkelijke klasse en is $$\hat{y}_j$$ de voorspelling
@@ -222,19 +224,10 @@ Is het model voldoende getraind?
 
 | Iteratie | $$w$$ | $$b$$ | Loss | $$\partial L/\partial w$$ | $$\partial L/\partial b$$ |
 | ---: | ---: | ---: | ---: | ---: | ---: |
-| 0 | 2,000000 | -3,000000 | 0,327563 | 0,259332 | 0,118106 |
-| 1 | 1,740668 | -3,118106 | 0,236912 | 0,311797 | 0,138989 |
-| 2 | 1,428871 | -3,257095 | 0,123857 | 0,272651 | 0,118724 |
-| 3 | 1,156220 | -3,375819 | 0,052954 | 0,159035 | 0,069038 |
-| 4 | 0,997185 | -3,444857 | 0,029778 | ? | ? |
-| 5 | ? | ? | — | — | — |
-
-| Iteratie | $$w$$ | $$b$$ | Loss | $$\partial L/\partial w$$ | $$\partial L/\partial b$$ |
-| ---: | ---: | ---: | ---: | ---: | ---: |
-| 0 | 2 | -3 | 0.65512508 | 0.12966617 | 0.05905322 |
-| 1 | 1.87033383 | -3.05905322 | 0.56858433 | 0.1461427 | 0.06586419 |
-| 2 | 1.72419112 | -3.1249174 | 0.46163469 | 0.15647664 | 0.06965651 |
-| 3 | 1.56771449 | -3.19457392 | 0.3446183 | 0.1531552 | 0.0673234 |
+| 0 | 2 | -3 | 0.65512508 | 0.5186647 | 0.2362129 |
+| 1 | 1.87033383 | -3.05905322 | 0.56858433 | 0.5845708 | 0.2634567 |
+| 2 | 1.72419112 | -3.1249174 | 0.46163469 | 0.6259066 | 0.2786260 |
+| 3 | 1.56771449 | -3.19457392 | 0.3446183 | 0.6126208 | 0.2692936 |
 | 4 | 1.4145593 | -3.2618973 | 0.23884514 | ? | ? |
 | 5 | ? | ? | — | — | — |
 
