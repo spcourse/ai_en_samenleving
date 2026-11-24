@@ -20,7 +20,7 @@ Kies een van de onderstaande stellingen of formuleer je eigen stelling over dit 
 
 Je mag een eigen stelling formuleren over het onderwerp AI en cognitie, mits deze voldoet aan de volgende condities.
 
-- **Specifisch:** Je neemt een duidelijke en scherpe positie in (niet alleen "AI komt met voor- en nadelen")
+- **Specifiek:** Je neemt een duidelijke en scherpe positie in (niet alleen "AI komt met voor- en nadelen")
 - **Debateerbaar:** een redelijke, goed-geinformeerde persoon zou het met je oneens kunnen zijn
 - **Relevant:** Jouw stelling gaat over het effect van AI applicaties op ons cognitief vermogen.
 
